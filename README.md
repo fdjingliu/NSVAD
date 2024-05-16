@@ -814,5 +814,10 @@ Due to differences in implementation platforms and experimental setups, directly
 If you find our work useful, please cite our paper:
 
 ```latex
-to do
+@misc{liu2024networking,
+  title = {Networking Systems for Video Anomaly Detection: {{A}} Tutorial and Survey},
+  author = {Liu, Jing and Liu, Yang and Lin, Jieyu and Li, Jielin and Sun, Peng and Hu, Bo and Song, Liang and Boukerche, Azzedine and Leung, Victor C.M.},
+  year = {2024},
+  month = may
+}
 ```
