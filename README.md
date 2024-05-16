@@ -783,14 +783,14 @@ Due to differences in implementation platforms and experimental setups, directly
 
 ## Relevant Workshops & Tutorials
 
-- Workshop on conventional AD: [AI4AN@IJCAI20](https://sites.google.com/view/ai4an2020
-  ), [AI4AN@IJCAI21](https://sites.google.com/view/ai4an2021), [ANDEA@KDD21](https://sites.google.com/view/andea2021
+- Workshop on conventional AD: 📰 [AI4AN@IJCAI20](https://sites.google.com/view/ai4an2020
+  ), 📰 [AI4AN@IJCAI21](https://sites.google.com/view/ai4an2021), 📰 [ANDEA@KDD21](https://sites.google.com/view/andea2021
   )
-- Workshop on visual AD: [AnoDDPM@CVPR22](http://dro.dur.ac.uk/36134/1/36134.pdf
-  ), [BRAVO@ICCV23](https://valeoai.github.io/bravo/
-  ), [ASTAD@WACV24](https://ismart.ece.mcgill.ca/wacv24/
+- Workshop on visual AD: 📰 [AnoDDPM@CVPR22](http://dro.dur.ac.uk/36134/1/36134.pdf
+  ), 📰 [BRAVO@ICCV23](https://valeoai.github.io/bravo/
+  ), 📰 [ASTAD@WACV24](https://ismart.ece.mcgill.ca/wacv24/
   )
-- Tutorial on VAD: [Recent Advances in Anomaly Detection](https://sites.google.com/view/cvpr2023-tutorial-on-ad/)
+- Tutorial on VAD: 📰 [Recent Advances in Anomaly Detection](https://sites.google.com/view/cvpr2023-tutorial-on-ad/)
 
 ## Related Topics & Tasks
 
@@ -805,9 +805,9 @@ Due to differences in implementation platforms and experimental setups, directly
 
 ## Tools
 
-`anomalib`: An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference. [Project Page](https://github.com/openvinotoolkit/anomalib).
+- `anomalib`: An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference. 🌐 [Project Page](https://github.com/openvinotoolkit/anomalib).
 
-`PyAnomaly`: A PyTorch toolbox for video anomaly detection. [Paper](https://dl.acm.org/doi/10.1145/3394171.3414540), [Project Page](https://github.com/YuhaoCheng/PyAnomaly).
+- `PyAnomaly`: A PyTorch toolbox for video anomaly detection. 📄 [Paper](https://dl.acm.org/doi/10.1145/3394171.3414540), 🌐 [Project Page](https://github.com/YuhaoCheng/PyAnomaly).
 
 ## Citation
 
