@@ -815,9 +815,12 @@ If you find our work useful, please cite our paper:
 
 ```latex
 @misc{liu2024networking,
-  title = {Networking Systems for Video Anomaly Detection: {{A}} Tutorial and Survey},
-  author = {Liu, Jing and Liu, Yang and Lin, Jieyu and Li, Jielin and Sun, Peng and Hu, Bo and Song, Liang and Boukerche, Azzedine and Leung, Victor C.M.},
+  title = {Networking {{Systems}} for {{Video Anomaly Detection}}: {{A Tutorial}} and {{Survey}}},
+  shorttitle = {Networking {{Systems}} for {{Video Anomaly Detection}}},
+  author = {Liu, Jing and Liu, Yang and Lin, Jieyu and Li, Jielin and Sun, Peng and Hu, Bo and Song, Liang and Boukerche, Azzedine and Leung, Victor C. M.},
   year = {2024},
-  month = may
+  month = may,
+  number = {arXiv:2405.10347},
+  primaryclass = {cs},
 }
 ```
